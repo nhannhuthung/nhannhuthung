@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Howl</h1>
 <h3 align="center">A motivated Mathematics student with background/experience in computational math, numerical computing, programming and scientific research.</h3>
 
-- 📄 Here is my resume in case your curiosity evokes: <a href="resume.pdf" target="_blank"><img src="https://img.icons8.com/color/48/000000/pdf.png" alt="PDF" width="20" style="vertical-align:middle;"/>View Resume</a>
+- 📄 Here is my resume in case your curiosity evokes: <a href="resume.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="20" style="vertical-align:middle;"/></a>
 - ⚡ One fact about me **I collect money, I display my collection here: https://nhannhuthung.github.io/**
 
 <p align="left">
