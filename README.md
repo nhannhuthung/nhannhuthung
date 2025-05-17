@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Howl</h1>
-<h3 align="center">A motivated Mathematics student with background/experience in computational math, numerical computing, programming and scientific research.</h3>
+<h3 align="left">A motivated Mathematics student with background/experience in computational math, numerical computing, programming and scientific research.</h3>
 
 # 💫 About Me:
 📄 Here is my resume in case your curiosity evokes: <a href="Resume.pdf" target="_blank">Resume</a>
