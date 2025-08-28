@@ -34,6 +34,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 ### ⚙️ Tools
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Command Line](https://img.shields.io/badge/CLI-%23000000.svg?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
